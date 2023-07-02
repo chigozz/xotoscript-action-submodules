@@ -7,7 +7,7 @@ inputs:
   root_token:
     description: 'secrets.GH_PAT'
   target_owner:
-    description: 'Repo owner'
+    description: 'Repo_owner'
   target_submodules:
     description: 'Repo submodules'
   target_branch:
