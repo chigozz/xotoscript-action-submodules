@@ -1,4 +1,4 @@
-name: '@xotoscript/xotoscript-action-submodules'
+name: '@chigozzdev/github-action'
 description: 'Custom app pr action'
 author: 'Xotostack'
 inputs:
